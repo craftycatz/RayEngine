@@ -1,0 +1,12 @@
+{
+  "person": {
+    "name": "John Doe",
+    "age": 30,
+    "list": [
+      "item1",
+      "item2",
+      30.5
+    ],
+    "boolean": true
+  }
+}
